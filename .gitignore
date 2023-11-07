@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+api_secrets.py
+client_secret.json
+__pycache__/
